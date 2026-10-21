@@ -1,0 +1,147 @@
+```text
+========== TO-DO LIST MANAGER ==========
+1. Add Task
+2. View All Tasks
+3. Edit Task
+4. Delete Task
+5. Mark Task as Completed
+6. View Pending Tasks
+7. View Overdue Tasks
+8. View Upcoming Tasks
+9. View Statistics
+10. Exit
+
+Enter your choice: 1
+
+========== ADD NEW TASK ==========
+Enter task title: Complete Python assignment
+Enter priority (High/Medium/Low): High
+Enter due date (DD-MM-YYYY): 25-10-2026
+
+Task added successfully!
+Task ID: T001
+
+========== TO-DO LIST MANAGER ==========
+1. Add Task
+2. View All Tasks
+3. Edit Task
+4. Delete Task
+5. Mark Task as Completed
+6. View Pending Tasks
+7. View Overdue Tasks
+8. View Upcoming Tasks
+9. View Statistics
+10. Exit
+
+Enter your choice: 1
+
+========== ADD NEW TASK ==========
+Enter task title: Prepare for SQL test
+Enter priority (High/Medium/Low): Medium
+Enter due date (DD-MM-YYYY): 23-10-2026
+
+Task added successfully!
+Task ID: T002
+
+========== TO-DO LIST MANAGER ==========
+1. Add Task
+2. View All Tasks
+3. Edit Task
+4. Delete Task
+5. Mark Task as Completed
+6. View Pending Tasks
+7. View Overdue Tasks
+8. View Upcoming Tasks
+9. View Statistics
+10. Exit
+
+Enter your choice: 2
+
+========== ALL TASKS ==========
+-----------------------------------
+Task ID : T001
+Title   : Complete Python assignment
+Priority: High
+Due Date: 25-10-2026
+Status  : PENDING
+-----------------------------------
+Task ID : T002
+Title   : Prepare for SQL test
+Priority: Medium
+Due Date: 23-10-2026
+Status  : PENDING
+
+========== TO-DO LIST MANAGER ==========
+1. Add Task
+2. View All Tasks
+3. Edit Task
+4. Delete Task
+5. Mark Task as Completed
+6. View Pending Tasks
+7. View Overdue Tasks
+8. View Upcoming Tasks
+9. View Statistics
+10. Exit
+
+Enter your choice: 5
+
+Enter task ID to mark as completed: T001
+Task marked as completed successfully!
+
+========== TO-DO LIST MANAGER ==========
+1. Add Task
+2. View All Tasks
+3. Edit Task
+4. Delete Task
+5. Mark Task as Completed
+6. View Pending Tasks
+7. View Overdue Tasks
+8. View Upcoming Tasks
+9. View Statistics
+10. Exit
+
+Enter your choice: 6
+
+========== PENDING TASKS ==========
+Task ID : T002
+Title   : Prepare for SQL test
+Priority: Medium
+Due Date: 23-10-2026
+Status  : PENDING
+
+========== TO-DO LIST MANAGER ==========
+1. Add Task
+2. View All Tasks
+3. Edit Task
+4. Delete Task
+5. Mark Task as Completed
+6. View Pending Tasks
+7. View Overdue Tasks
+8. View Upcoming Tasks
+9. View Statistics
+10. Exit
+
+Enter your choice: 9
+
+========== TASK STATISTICS ==========
+Total Tasks     : 2
+Completed Tasks : 1
+Pending Tasks   : 1
+Overdue Tasks   : 0
+
+========== TO-DO LIST MANAGER ==========
+1. Add Task
+2. View All Tasks
+3. Edit Task
+4. Delete Task
+5. Mark Task as Completed
+6. View Pending Tasks
+7. View Overdue Tasks
+8. View Upcoming Tasks
+9. View Statistics
+10. Exit
+
+Enter your choice: 10
+
+Thank you for using To-Do List Manager!
+```

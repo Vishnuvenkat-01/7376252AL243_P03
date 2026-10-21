@@ -1,0 +1,12 @@
+T001|Submit Python project|High|21-10-2026|PENDING
+T002|Buy lab record|Medium|15-10-2026|PENDING
+T003|Clean study table|Low|28-10-2026|PENDING
+T004|Complete SQL practice|High|22-10-2026|COMPLETED
+T005|Prepare presentation|Medium|25-10-2026|PENDING
+T006|Revise Python loops|High|23-10-2026|PENDING
+T007|Read DBMS notes|Low|29-10-2026|COMPLETED
+T008|Finish assignment|High|20-10-2026|PENDING
+T009|Organize notebooks|Low|30-10-2026|PENDING
+T010|Practice coding problems|Medium|24-10-2026|PENDING
+T011|complete Python Project|High|25-10-2026|PENDING
+T012|python|High|25-10-2026|PENDING
